@@ -1,0 +1,7 @@
+Order: 0
+Date: 06-05-2020 at 05:45:19
+Table: 1
+
+Commanded products:
+Salad      12.0
+Total price: 12.0
